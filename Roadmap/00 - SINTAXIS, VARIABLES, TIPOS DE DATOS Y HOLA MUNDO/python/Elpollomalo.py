@@ -1,4 +1,4 @@
-# https://python.org
+# https://www.python.org
 
 # Comentario en una línea
 
@@ -6,18 +6,20 @@
 Esto también es
 un comentario
 en varias líneas
+con comillas dobles
 """
 
 '''
 Esto también es
 un comentario
 en varias líneas
+con comillas simples
 '''
 
 my_variable = "Mi variable"
 my_variable = "Nuevo valor de mi variable"
 
-MY_CONSTANT = "Mi constante"  # por convención
+MY_CONSTANT = "No es una constante pero funciona como una"  # por convención
 
 my_int = 1
 my_float = 1.5
